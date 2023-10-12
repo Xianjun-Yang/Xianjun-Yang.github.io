@@ -78,19 +78,43 @@
   year={2023}
 }
 
-@article{yang2022oasum,
-  title={Oasum: Large-scale open domain aspect-based summarization},
-  author={Yang, Xianjun and Song, Kaiqiang and Cho, Sangwoo and Wang, Xiaoyang and Pan, Xiaoman and Petzold, Linda and Yu, Dong},
-  journal={arXiv preprint arXiv:2212.09233},
-  year={2022}
+@inproceedings{yang-etal-2023-oasum,
+    title = "{OAS}um: Large-Scale Open Domain Aspect-based Summarization",
+    author = "Yang, Xianjun  and
+      Song, Kaiqiang  and
+      Cho, Sangwoo  and
+      Wang, Xiaoyang  and
+      Pan, Xiaoman  and
+      Petzold, Linda  and
+      Yu, Dong",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.268",
+    doi = "10.18653/v1/2023.findings-acl.268",
+    pages = "4381--4401",
+    abstract = "Aspect or query-based summarization has recently caught more attention, as it can generate differentiated summaries based on users{'} interests. However, the current dataset for aspect or query-based summarization either focuses on specific domains, on a relatively small scale, or contains only a few aspect types. Such limitations hinder further explorations in this direction. In this work, we take advantage of crowd-sourcing knowledge on Wikipedia and automatically create a high-quality, large-scale open-domain aspect-based summarization dataset named OASum, which contains more than 3.7 million instances with around 1 million different aspects on 2 million Wikipedia pages. We provide benchmark results on OASum and demonstrate its ability for diverse aspect-based summarization generation. To overcome the data scarcity problem on specific domains, we also perform zero-shot, few-shot, and fine-tuning on seven downstream datasets. Specifically, zero/few-shot and fine-tuning results show that the model pre-trained on our corpus demonstrates a strong aspect or query-focused generation ability compared with the backbone model. Our dataset and pre-trained checkpoints are publicly available.",
 }
 
-@article{yang2022few,
-  title={Few-Shot Document-Level Event Argument Extraction},
-  author={Yang, Xianjun and Lu, Yujie and Petzold, Linda},
-  journal={arXiv preprint arXiv:2209.02203},
-  year={2022}
+
+@inproceedings{yang-etal-2023-shot,
+    title = "Few-Shot Document-Level Event Argument Extraction",
+    author = "Yang, Xianjun  and
+      Lu, Yujie  and
+      Petzold, Linda",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.446",
+    doi = "10.18653/v1/2023.acl-long.446",
+    pages = "8029--8046",
+    abstract = "Event argument extraction (EAE) has been well studied at the sentence level but under-explored at the document level. In this paper, we study to capture event arguments that actually spread across sentences in documents. Prior works usually assume full access to rich document supervision, ignoring the fact that the available argument annotation is limited in production. To fill this gap, we present FewDocAE, a Few-Shot Document-Level Event Argument Extraction benchmark, based on the existing document-level event extraction dataset. We first define the new problem and reconstruct the corpus by a novel N-Way-D-Doc sampling instead of the traditional N-Way-K-Shot strategy. Then we adjust the current document-level neural models into the few-shot setting to provide baseline results under in- and cross-domain settings. Since the argument extraction depends on the context from multiple sentences and the learning process is limited to very few examples, we find this novel task to be very challenging with substantively low performance. Considering FewDocAE is closely related to practical use under low-resource regimes, we hope this benchmark encourages more research in this direction. Our data and codes will be available online.",
 }
+
 
 @inproceedings{yang2022pcmsp,
   title={PcMSP: A Dataset for Scientific Action Graphs Extraction from Polycrystalline Materials Synthesis Procedure Text},
