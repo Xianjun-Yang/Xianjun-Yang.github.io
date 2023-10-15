@@ -8,7 +8,7 @@ middle_name:
 last_name: Yang
 email: xianjunyang@ucsb.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A personal website.
+  Xianjun's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -71,7 +71,7 @@ github_username: Xianjun-Yang # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Qnolan4 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: xianjun-yang-0062aa1a6 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: Tunh15sAAAAJ # your Google Scholar ID
 semanticscholar_id: 2145170944 # your Semantic Scholar ID
@@ -155,8 +155,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: # medium.com
+    rss_url: # https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
