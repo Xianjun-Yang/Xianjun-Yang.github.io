@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Henley 2113</p>
+    <p>Henley hall, 2113</p>
     <p>UC, Santa Barbara</p>
     <p>CA, 93117</p>
 
