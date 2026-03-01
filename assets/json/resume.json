@@ -1,69 +1,157 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xianjun Yang",
+    "label": "AI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "xianjun.yang.ai@gmail.com",
+    "phone": "",
+    "url": "https://xianjun-yang.github.io",
+    "summary": "AI researcher working on Agentic RL, mid-training, AI safety, and LLM alignment. Member of Technical Staff at Reflection AI. Completed PhD in CS at UC Santa Barbara in 3 years without prior CS background. ~3k citations, h-index 24.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "Xianjun-Yang",
+        "url": "https://github.com/Xianjun-Yang"
+      },
+      {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Qnolan4",
+        "url": "https://twitter.com/Qnolan4"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "xianjun-yang-0062aa1a6",
+        "url": "https://www.linkedin.com/in/xianjun-yang-0062aa1a6"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Reflection AI",
+      "position": "Member of Technical Staff",
+      "url": "https://reflection.ai",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Working on open intelligence for large language models.",
+      "highlights": ["Agentic RL", "Mid-training"]
+    },
+    {
+      "name": "Meta Superintelligence Lab",
+      "position": "Research Scientist",
+      "url": "https://ai.meta.com",
+      "startDate": "2024-12-01",
+      "endDate": "2025-12-01",
+      "summary": "Research across FAIR, GenAI, and Reality Labs teams.",
+      "highlights": ["LLM alignment", "Mechanistic interpretability community (150+ researchers)"]
+    },
+    {
+      "name": "Meta GenAI",
+      "position": "Research Intern",
+      "url": "https://ai.meta.com",
+      "startDate": "2024-06-01",
+      "endDate": "2024-10-01",
+      "summary": "Research internship at Meta GenAI, Seattle.",
+      "highlights": []
+    },
+    {
+      "name": "Amazon",
+      "position": "Research Intern",
+      "url": "https://www.amazon.science",
+      "startDate": "2024-03-01",
+      "endDate": "2024-06-01",
+      "summary": "Research internship at Amazon, Palo Alto.",
+      "highlights": []
+    },
+    {
+      "name": "NEC Laboratories America",
+      "position": "Research Intern",
+      "url": "https://www.nec-labs.com",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "summary": "Research internship at NEC Labs America, New Jersey.",
+      "highlights": []
+    },
+    {
+      "name": "Tencent AI Lab",
+      "position": "Research Intern",
+      "url": "https://ai.tencent.com",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Research internship at Tencent AI Lab, Seattle.",
+      "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Santa Barbara",
+      "url": "https://www.ucsb.edu",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-10-01",
+      "endDate": "2024-11-01",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": [],
+      "summary": "Advised by Prof. Linda Petzold, Prof. William Yang Wang, and Prof. Stephen Wilson. Affiliated with UCSB NLP Group and UCSB Quantum Foundry."
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "url": "https://www.ucsb.edu",
+      "area": "Fluid Mechanics (Mechanical Engineering)",
+      "studyType": "PhD (incomplete)",
+      "startDate": "2020-09-01",
+      "endDate": "2021-09-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Tsinghua University",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "Energy and Power Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "ICLR 2026 Oral",
+      "date": "2026-01-01",
+      "awarder": "ICLR",
+      "summary": "Oral presentation for 'Verifying Chain-of-Thought Reasoning via Its Computational Graph'."
+    },
+    {
+      "title": "EMNLP 2025 Senior Area Chair Highlights Award",
+      "date": "2025-11-01",
+      "awarder": "EMNLP",
+      "summary": "Recognized as a highlighted paper by the Senior Area Chair."
+    },
+    {
+      "title": "ICML 2024 Oral",
+      "date": "2024-07-01",
+      "awarder": "ICML",
+      "summary": "Oral presentation for 'A Safe Harbor for AI Evaluation and Red Teaming'."
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "level": "",
+      "keywords": ["Agentic RL", "Mid-training", "AI Safety", "LLM Alignment", "Mechanistic Interpretability", "LLM Security", "LLM-based Agents"]
+    }
+  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
