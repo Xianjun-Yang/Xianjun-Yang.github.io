@@ -6,7 +6,7 @@
     "email": "xianjun.yang.ai@gmail.com",
     "phone": "",
     "url": "https://xianjun-yang.github.io",
-    "summary": "AI researcher working on Agentic RL, mid-training, AI safety, and LLM alignment. Member of Technical Staff at Reflection AI. Completed PhD in CS at UC Santa Barbara in 3 years without prior CS background. ~3k citations, h-index 24.",
+    "summary": "AI researcher working on Agentic RL, mid-training, AI safety, and LLM alignment. Member of Technical Staff at Reflection AI. Completed PhD in CS at UC Santa Barbara in 3 years without prior CS background. ~3k citations.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -44,17 +44,17 @@
       "name": "Meta Superintelligence Lab",
       "position": "Research Scientist",
       "url": "https://ai.meta.com",
-      "startDate": "2024-12-01",
-      "endDate": "2025-12-01",
-      "summary": "Research across FAIR, GenAI, and Reality Labs teams.",
-      "highlights": ["LLM alignment", "Mechanistic interpretability community (150+ researchers)"]
+      "startDate": "2024-12-016",
+      "endDate": "2025-12-22",
+      "summary": "Research across FAIR, GenAI teams.",
+      "highlights": ["LLM alignment", "Mechanistic interpretability"]
     },
     {
       "name": "Meta GenAI",
       "position": "Research Intern",
       "url": "https://ai.meta.com",
-      "startDate": "2024-06-01",
-      "endDate": "2024-10-01",
+      "startDate": "2024-06-15",
+      "endDate": "2024-10-30",
       "summary": "Research internship at Meta GenAI, Seattle.",
       "highlights": []
     },
@@ -63,7 +63,7 @@
       "position": "Research Intern",
       "url": "https://www.amazon.science",
       "startDate": "2024-03-01",
-      "endDate": "2024-06-01",
+      "endDate": "2024-06-14",
       "summary": "Research internship at Amazon, Palo Alto.",
       "highlights": []
     },
@@ -71,8 +71,8 @@
       "name": "NEC Laboratories America",
       "position": "Research Intern",
       "url": "https://www.nec-labs.com",
-      "startDate": "2023-01-01",
-      "endDate": "2023-06-01",
+      "startDate": "2023-01-05",
+      "endDate": "2023-06-20",
       "summary": "Research internship at NEC Labs America, New Jersey.",
       "highlights": []
     },
@@ -80,8 +80,8 @@
       "name": "Tencent AI Lab",
       "position": "Research Intern",
       "url": "https://ai.tencent.com",
-      "startDate": "2022-06-01",
-      "endDate": "2022-08-01",
+      "startDate": "2022-06-15",
+      "endDate": "2022-09-15",
       "summary": "Research internship at Tencent AI Lab, Seattle.",
       "highlights": []
     }
@@ -94,17 +94,17 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2021-10-01",
-      "endDate": "2024-11-01",
+      "endDate": "2024-11-15",
       "score": "",
       "courses": [],
-      "summary": "Advised by Prof. Linda Petzold, Prof. William Yang Wang, and Prof. Stephen Wilson. Affiliated with UCSB NLP Group and UCSB Quantum Foundry."
+      "summary": "Co-advised by Prof. Linda Petzold, Prof. William Yang Wang, and Prof. Stephen Wilson. Affiliated with UCSB NLP Group and UCSB Quantum Foundry."
     },
     {
       "institution": "University of California, Santa Barbara",
       "url": "https://www.ucsb.edu",
-      "area": "Fluid Mechanics (Mechanical Engineering)",
-      "studyType": "PhD (incomplete)",
-      "startDate": "2020-09-01",
+      "area": "Fluid Mechanics",
+      "studyType": "PhD (Quit)",
+      "startDate": "2020-01-01",
       "endDate": "2021-09-01",
       "score": "",
       "courses": []
@@ -115,7 +115,7 @@
       "area": "Energy and Power Engineering",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "2019-06-01",
+      "endDate": "2019-06-20",
       "score": "",
       "courses": []
     }
@@ -126,12 +126,6 @@
       "date": "2026-01-01",
       "awarder": "ICLR",
       "summary": "Oral presentation for 'Verifying Chain-of-Thought Reasoning via Its Computational Graph'."
-    },
-    {
-      "title": "EMNLP 2025 Senior Area Chair Highlights Award",
-      "date": "2025-11-01",
-      "awarder": "EMNLP",
-      "summary": "Recognized as a highlighted paper by the Senior Area Chair."
     },
     {
       "title": "ICML 2024 Oral",
@@ -146,7 +140,7 @@
     {
       "name": "Research Areas",
       "level": "",
-      "keywords": ["Agentic RL", "Mid-training", "AI Safety", "LLM Alignment", "Mechanistic Interpretability", "LLM Security", "LLM-based Agents"]
+      "keywords": ["Agentic RL", "Mid-training", "AI Safety", "LLM Alignment", "Mechanistic Interpretability", "LLM Security"]
     }
   ],
   "languages": [
