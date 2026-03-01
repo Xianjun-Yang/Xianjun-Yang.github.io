@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join [Reflection AI](https://reflection.ai) as a researcher working on large language models and AI safety!
+Excited to join [Reflection AI](https://reflection.ai) as a researcher working on open intelligence!
