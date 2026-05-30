@@ -454,6 +454,13 @@ footer.sticky-bottom {
   }
 }
 
+.visitor-map-tracker {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  clip-path: inset(50%);
+}
+
 // CV
 
 .cv {
